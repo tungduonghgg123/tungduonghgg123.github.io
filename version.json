@@ -1,4 +1,4 @@
 {
-  "version": "1.0.30",
-  "changeLog": "1. Cho phép tắt AI assistant bubble\n2. Vá lỗi"
+  "version": "1.0.31",
+  "changeLog": "1. Cho phép di chuyển AI assistant bubble\n2. Cải thiện AI assistant bubble"
 }
