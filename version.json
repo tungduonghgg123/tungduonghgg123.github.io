@@ -1,4 +1,4 @@
 {
-  "version": "1.0.32",
-  "changeLog": "1. Cho phép chọn tên người chơi thường xuyên"
+  "version": "1.0.33",
+  "changeLog": "1. Cập nhật giao diện mới và thêm tính năng quay ngẫu nhiên \n2. Vá lỗi hallucination of AI agent"
 }
