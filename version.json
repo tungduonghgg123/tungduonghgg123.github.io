@@ -1,4 +1,4 @@
 {
-  "version": "1.0.33",
-  "changeLog": "1. Cập nhật giao diện mới và thêm tính năng quay ngẫu nhiên \n2. Vá lỗi hallucination of AI agent"
+  "version": "1.0.34",
+  "changeLog": "1. Hiển thị tóm tắt kết quả chia điểm"
 }
